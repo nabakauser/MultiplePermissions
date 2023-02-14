@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiplePermissions</string>
+    <string name="uiButtonTakePhoto">TAKE PHOTO</string>
+    <string name="uiButtonGetFromGallery">GET FROM GALLERY</string>
+    <string name="toast_PermissionsGranted">Permissions Granted</string>
+    <string name="toast_PermissionsDenied">Permissions Denied</string>
+</resources>
